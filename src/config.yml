@@ -1,0 +1,8 @@
+BlockedCommands:
+- '/help'
+- '/pl'
+- '/plugins'
+- '/bukkit'
+- '/tps'
+- '/list'
+- '//calc'
