@@ -1,0 +1,42 @@
+name: RedEssentials
+description: RedEssentials
+main: me.neon.redessentials.RedEssentials
+version: 0.1
+author: redplugins
+commands:
+  workbench:
+    aliases: [crafttable, cf, bancada]
+  who:
+  warp:
+    aliases: [ir]
+  vanish:
+    aliases: [v]
+  teleport:
+    aliases: [tp]
+  spawn:
+  night:
+    aliases: [noite]
+  kill:
+  invsee:
+    aliases: [ver]
+  heal:
+  hat:
+  feed:
+  day:
+    aliases: [dia]
+  clearinventory:
+    aliases: [ci, clear]
+  clearchat:
+    aliases: [cc]
+  fly:
+    aliases: [voar]
+  gamemode:
+    aliases: [gm]
+  redessentials:
+    aliases: [re]
+    description: Reloads the configuration file
+    default: true
+    usage: /redessentials
+  permissions:
+  redessentials.*:
+    description: Inherits all plugin permissions
